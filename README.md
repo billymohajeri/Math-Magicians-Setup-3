@@ -33,44 +33,31 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Math Magician <a name="about-project"></a>
+# 📖 Math Magician <a name="about-project"></a>
 
 **Math magicians** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 - Make simple calculations.
 - Read a random math-related quote.
 
-<div align="center">
-
-  <!-- <img src="./app_screenshot/homepage.png" alt="logo" width="650"  height="auto" /> -->
-  <!-- <img src="./app_screenshot/modal.png" alt="logo" width="250"  height="auto" /> -->
-
-  <br/>
-</div>
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-# Major languages
-
-- HTML
-- CSS
-- React
-
-## Technologies used:
-
-- VSCode
-- git
-- GitHub
-- Gitflow
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
-<!-- ### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a>
 
+Just setup the project, nothing yet...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -79,12 +66,6 @@
 [Live Demo Link]() Not deployed yet...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ## 📺 Presentation <a name="video-link"></a>
-
-[Presentation about this project](https://drive.google.com/file/d/1hF0MsWRuWlcS675bkk-NotW1CzaY-anz/view?usp=share_link)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -126,7 +107,7 @@ To run the project, execute the following command:
 
 `npm start`
 
-<!-- ### Run tests
+### Run tests
 
 To run tests, run the following command:
 
@@ -134,7 +115,7 @@ Example command:
 
 `npm test`
 
- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 

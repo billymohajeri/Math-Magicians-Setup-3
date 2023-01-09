@@ -17,7 +17,13 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [💻 Getting Started](#getting-started)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -63,8 +69,6 @@
 
 <!-- ### Key Features <a name="key-features"></a>
 
-- Like a movie
-- Create a comment for a movie
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -148,12 +152,12 @@ Example command:
 
 <!-- FUTURE FEATURES -->
 
-<!-- ## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-- Add a mobile version
-- Add a search for other movies or series options
+- Make simple calculations
+- Read a random math-related quote.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 

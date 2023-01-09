@@ -4,8 +4,7 @@
 
   <!-- <img src="./logo.png" alt="logo" width="250"  height="auto" /> -->
 
-<h3><b>Leaderboard</b></h3>
-
+<h3><b>Math Magicians</b></h3>
 
 </div>
 
@@ -25,7 +24,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [📺 Presentation](#presentation)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -75,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+[Live Demo Link]() Not deployed yet...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -3,7 +3,9 @@
 <div align="center">
 
   <!-- <img src="./logo.png" alt="logo" width="250"  height="auto" /> -->
-  <br/>
+
+<h3><b>Leaderboard</b></h3>
+
 
 </div>
 
@@ -29,6 +31,11 @@
 <!-- PROJECT DESCRIPTION -->
 
 # Math Magician <a name="about-project"></a>
+
+**Math magicians** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+
+- Make simple calculations.
+- Read a random math-related quote.
 
 <div align="center">
 
@@ -101,7 +108,7 @@ In order to run this project you need:
 Example commands:
 
 ```sh
-  git clone git@github.com:billymohajeri/Math-Magicians-Setup.git
+  git clone git@github.com:billymohajeri/Math-Magicians-Setup-3.git
 ```
 
 ### Install

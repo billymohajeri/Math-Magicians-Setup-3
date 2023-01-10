@@ -40,7 +40,6 @@ button:active {
 }
 
 .result {
-  padding: 0;
   padding-right: 5px;
   border: 1px solid lightgray;
   background-color: #858693;

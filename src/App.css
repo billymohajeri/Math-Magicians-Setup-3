@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .App {
   text-align: center;
 }
@@ -61,3 +65,4 @@ button:active {
 .double {
   flex-grow: 2;
 }
+

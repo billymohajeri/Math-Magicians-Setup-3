@@ -40,6 +40,13 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
+<div align="center">
+
+  <img src="./assets/home.png" alt="app-screenshot-1" width="auto"  height="auto" />
+  <img src="./assets/quote.png" alt="app-screenshot-2" width="auto"  height="auto" />
+  <img src="./assets/calculator.png" alt="app-screenshot-3" width="auto"  height="auto" />
+  </div>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -55,7 +62,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-Just setup the project, nothing yet...
+- Make simple calculations
+- Read a random math-related quote
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,8 +143,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Make simple calculations
-- Read a random math-related quote.
+- Add some tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,10 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import '../styles/Navi.css';
 
 const Navi = () => (
-  <nav className="aa">
-    <h1>Math Magicians</h1>
-    <ul>
+  <nav className="navmenu-desktop">
+    <h1 className="logo">Math Magicians</h1>
+    <ul className="nav-items">
       <li>
         <NavLink
           to="/"

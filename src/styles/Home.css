@@ -1,0 +1,23 @@
+.welcome-container {
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  color: wheat;
+}
+
+.welcome-title {
+  font-size: 3rem;
+}
+
+.welcome-text {
+  font-size: 2rem;
+}
+
+.welcome-points {
+  text-align: left;
+  margin-left: 20%;
+  color: #d47500;
+  font-size: 2rem;
+  list-style-type: square;
+  list-style-position: inside;
+}

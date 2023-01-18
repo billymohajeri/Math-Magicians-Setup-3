@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Syne+Mono&display=swap');
+
+body {
+  background-color: #181a1b;
+  font-family: 'Syne Mono', monospace;
+}
+
+.quote-container {
+  text-align: center;
+}
+
+.quote-text {
+  color: #d47500;
+  max-width: 1000px;
+  margin: auto;
+  padding: 10rem;
+  font-size: 4rem;
+}
+
+a {
+  color: unset;
+  text-decoration: inherit;
+}
+
+.quote-author {
+  font-size: 1.5rem;
+  color: wheat;
+  font-weight: 700;
+}

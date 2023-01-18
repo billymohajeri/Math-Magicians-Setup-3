@@ -17,8 +17,8 @@
 }
 
 .nav-items li {
-  margin: 2rem;
-  font-size: 3rem;
+  margin: 1rem;
+  font-size: 2rem;
 }
 
 .activeLink {
@@ -28,4 +28,5 @@
 .logo {
   color: wheat;
   font-size: 5rem;
+  margin-top: 1%;
 }

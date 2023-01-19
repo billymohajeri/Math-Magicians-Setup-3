@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="welcome-container"
+>
+  <h2
+    className="welcome-title"
+  >
+    Welcome to our page!
+  </h2>
+  <p
+    className="welcome-text"
+  >
+    "Math magicians" is a website for all fans of mathematics.
+  </p>
+  <p
+    className="welcome-text"
+  >
+    It is a Single Page App (SPA) that allows users to:
+  </p>
+  <ul
+    className="welcome-points"
+  >
+    <li>
+      Make simple calculations.
+    </li>
+    <li>
+      Read a random math-related quote.
+    </li>
+  </ul>
+</section>
+`;

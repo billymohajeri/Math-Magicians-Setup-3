@@ -2,9 +2,7 @@
 
 <div align="center">
 
-  <!-- <img src="./logo.png" alt="logo" width="250"  height="auto" /> -->
-
-<h3><b>Math Magicians</b></h3>
+  <h3><b>Math Magicians</b></h3>
 
 </div>
 

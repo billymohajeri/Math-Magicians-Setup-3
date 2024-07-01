@@ -115,8 +115,6 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-<!-- > Mention all of the collaborators of this project. -->
-
 👤 **Billy Mohajeri**
 
 - GitHub: [@BillyMohajeri](https://github.com/billymohajeri)

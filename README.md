@@ -147,8 +147,6 @@ If you like this project, you can support me by giving a ⭐.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
-
 I would like to thank all of my code reviewers for giving me constructive feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
